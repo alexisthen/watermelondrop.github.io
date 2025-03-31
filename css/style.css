@@ -3,10 +3,10 @@ body {
   color: rgba(225, 225, 225, 0.6);
 }
 body {
-  background-color: #211328;
+  background-color: #33b864;
 }
 body.login-body {
-  background-color: #211328;
+  background-color: #33b864;
 }
 img {
   max-width: 100%;
@@ -33,7 +33,7 @@ a:visited {
   margin-right: 20px;
 }
 .dropdown-menu {
-  background: #3b3255;
+  background: #33b864;
 }
 .dropdown-menu .dropdown-item {
   padding: 15px 25px;
