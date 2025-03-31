@@ -20,7 +20,7 @@ a:visited {
 }
 .top-nav {
   margin-bottom: 40px;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 0.1);
   padding: 20px 0;
 }
 .top-nav a {
@@ -87,10 +87,10 @@ ul.user-links li {
   padding: 10px 18px;
 }
 .page-link:hover {
-  background: #574260;
+  background: #33b864;
 }
 .pagination .disabled .page-link {
-  background: #503759;
+  background: #33b864;
 }
 .single-title, .page-title {
   font-size: calc(1.3rem + .6vw);
@@ -159,7 +159,7 @@ ul.user-links li {
 }
 .list-game-x:hover {
   padding: 10px;
-  background-color: #eef0f2;
+  background-color: #33b864;
   border-radius: 10px;
   scale: 1.2;
 }
